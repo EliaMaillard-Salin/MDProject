@@ -1,0 +1,10 @@
+[
+    {
+        "Name" : "Test",
+        "type" : "CHOICE",
+        "dialogueID" : "0",
+        "dialogueName" : "TestDialogue",
+        "NPCName" : "TalkingNPC",
+        "Content" : "AAAAAAAAAAAA"
+    }
+]
